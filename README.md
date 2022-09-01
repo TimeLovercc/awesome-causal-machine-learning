@@ -1,6 +1,6 @@
-# awesome-causal-learning-for-graphs
+# awesome-causal-learning
 
-This repository contains a list of papers on the **causal Learning for Graphs**, we categorize them into tutorials, general papers for counterfactual learning and latest papers for causal learning on graphs. For the latest papers about counterfactual learning for graphs, we categorized them based on the published year.
+This repository contains a list of papers on the **causal Learning**, we categorize them into tutorials, general papers for causal learning and latest papers for causal learning. For the latest papers about causal learning, we categorized them based on the published year.
 
 ## Table of Contents
 - [Latest Papers](#Latest-Papers)
