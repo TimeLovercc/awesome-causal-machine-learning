@@ -62,10 +62,10 @@ This repository contains a list of papers on the **causal machine Learning**, we
 
 
 ### Year 2020
-|Offline+MAB|[Ye, Li, Yishi Lin, Hong Xie, and John Lui. "Combining Offline Causal Inference and Online Bandit Learning for Data Driven Decisions." arXiv preprint arXiv:2001.05699 (2020).](https://arxiv.org/pdf/2001.05699v1.pdf)|NA|
-|A Review of Using Text to Remove Confounding from Causal Estimates|[Keith, Katherine A., David Jensen, and Brendan O'Connor. "Text and Causal Inference: A Review of Using Text to Remove Confounding from Causal Estimates." ACL 2020.](https://www.aclweb.org/anthology/2020.acl-main.474.pdf)|NA|
-|Policy-aware Estimator|[Oosterhuis, Harrie, and Maarten de Rijke. "Policy-aware unbiased learning to rank for top-k rankings." In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, pp. 489-498. 2020.](https://arxiv.org/pdf/2005.09035.pdf)|[Python](https://github.com/HarrieO/2020topkunbiasedltr)|
-|Heckman^{rank}|[Ovaisi, Zohreh, Ragib Ahsan, Yifan Zhang, Kathryn Vasilaky, and Elena Zheleva. "Correcting for Selection Bias in Learning-to-rank Systems." arXiv preprint arXiv:2001.11358 (2020).](https://arxiv.org/abs/2001.11358)|[code](https://github.com/edgeslab/heckman_rank)|
+1. [arXiv 2020] **Combining Offline Causal Inference and Online Bandit Learning for Data Driven Decisions.** (https://arxiv.org/pdf/2001.05699v1.pdf)
+2. [ACL 2020] **A Review of Using Text to Remove Confounding from Causal Estimates** [[paper]](https://www.aclweb.org/anthology/2020.acl-main.474.pdf)
+3. [Sigir 2020] **Policy-aware unbiased learning to rank for top-k rankings.** [[paper]](https://arxiv.org/pdf/2005.09035.pdf)
+4. |Heckman^{rank}|[Ovaisi, Zohreh, Ragib Ahsan, Yifan Zhang, Kathryn Vasilaky, and Elena Zheleva. "Correcting for Selection Bias in Learning-to-rank Systems." arXiv preprint arXiv:2001.11358 (2020).](https://arxiv.org/abs/2001.11358)|[code](https://github.com/edgeslab/heckman_rank)|
 |Deconfounded Recsys|[Wang, Yixin, Dawen Liang, Laurent Charlin, and David M. Blei. "Causal Inference for Recommender Systems." In Proceedings of the Fourteenth ACM Conference on Recommender Systems (2020).](https://dl.acm.org/doi/10.1145/3383313.3412225)|[Python](https://github.com/yixinwang/causal-recsys-public)|
 |Unbiased Offline Recommender Learning|[Saito, Yuta, Suguru Yaginuma, Yuta Nishino, Hayato Sakata, and Kazuhide Nakata. "Unbiased Recommender Learning from Missing-Not-At-Random Implicit Feedback." In Proceedings of the 13th International Conference on Web Search and Data Mining, pp. 501-509. ACM, 2020.](https://dl.acm.org/doi/abs/10.1145/3336191.3371783)|[Python](https://github.com/usaito/unbiased-implicit-rec-real)|
 |DomainBed|Gulrajani, Ishaan, and David Lopez-Paz. "In Search of Lost Domain Generalization." In International Conference on Learning Representations. 2020.|[code](https://github.com/facebookresearch/DomainBed)|
