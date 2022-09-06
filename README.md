@@ -1,6 +1,6 @@
 # awesome-causal-machine-learning
 
-This repository contains a list of papers on the **causal Learning**, we categorize them into tutorials, general papers for causal machine learning and latest papers for causal learning. For the latest papers about causal learning, we categorized them based on the published year.
+This repository contains a list of papers on the **causal machine Learning**, we categorize them into tutorials, general papers for causal machine learning and latest papers for causal learning. For the latest papers about causal learning, we categorized them based on the published year.
 
 ## Table of Contents
 - [Latest Papers](#Latest-Papers)
