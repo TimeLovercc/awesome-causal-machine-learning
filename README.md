@@ -10,8 +10,8 @@ This repository contains a list of papers on the **causal machine Learning**, we
 
 ## Latest Papers
 ### Year 2022
-|Domain Adversarial Matrix Factorization|[Saito, Yuta, and Masahiro Nomura. "Towards Resolving Propensity Contradiction in Offline Recommender Learning." In IJCAI 2022](https://usaito.github.io/files/IJCAI2022_DAMF.pdf)|[code](https://github.com/usaito/ijcai2022-adversarial-mf)|
-|Survey THU|Li, Haoyang, Xin Wang, Ziwei Zhang, and Wenwu Zhu. "Out-of-distribution generalization on graphs: A survey." arXiv preprint arXiv:2202.07987 (2022).|NA|
+1. [IJCAI 2022] **Towards Resolving Propensity Contradiction in Offline Recommender Learning** [[paper]](https://usaito.github.io/files/IJCAI2022_DAMF.pdf)
+1. [arXiv 2022] **Out-of-distribution generalization on graphs: A survey** [[paper]](https://arxiv.org/pdf/2108.13624.pdf)
 1. [ICLR 2022] **Handling Distribution Shifts on Graphs: An Invariance Perspective** [[paper]](https://openreview.net/pdf?id=FQOC5u-1egI)
 1. [ICLR 2022] **Discovering Invariant Rationales for Graph Neural Networks** [[paper]](https://openreview.net/pdf?id=hGXij5rfiHw)
 1. [arXiv 2022] **FairEdit: Preserving Fairness in Graph Neural Networks through Greedy Graph Editing** [[paper]](https://arxiv.org/pdf/2201.03681.pdf)
@@ -34,12 +34,12 @@ This repository contains a list of papers on the **causal machine Learning**, we
 
 
 ### Year 2021
-|Causal Embedding for User Interest and Conformity|[Zheng, Y., Gao, C., Li, X., He, X., Li, Y., & Jin, D. (2021, April). Disentangling User Interest and Conformity for Recommendation with Causal Embedding. In Proceedings of the Web Conference 2021 (pp. 2980-2991).](https://arxiv.org/abs/2006.11011)|[Python](https://github.com/tsinghua-fib-lab/DICE)|
-|WILDS|Koh, Pang Wei, Shiori Sagawa, Henrik Marklund, Sang Michael Xie, Marvin Zhang, Akshay Balsubramani, Weihua Hu et al. "Wilds: A benchmark of in-the-wild distribution shifts." In International Conference on Machine Learning, pp. 5637-5664. PMLR, 2021.|[code](https://github.com/p-lambda/wilds)|
-|IBM OoD|Repository for theory and methods for Out-of-Distribution (OoD) generalization by IBM Research|[code](https://github.com/IBM/OoD)|
-|OoD Bench|Ye, Nanyang, Kaican Li, Lanqing Hong, Haoyue Bai, Yiting Chen, Fengwei Zhou, and Zhenguo Li. "Ood-bench: Benchmarking and understanding out-of-distribution generalization datasets and algorithms." arXiv preprint arXiv:2106.03721 (2021).|[code](https://github.com/m-Just/OoD-Bench)|
-|BEDS-Bench|Avati, Anand, Martin Seneviratne, Emily Xue, Zhen Xu, Balaji Lakshminarayanan, and Andrew M. Dai. "BEDS-Bench: Behavior of EHR-models under Distributional Shift--A Benchmark." arXiv preprint arXiv:2107.08189 (2021).|[code](https://github.com/Google-Health/records-research/tree/master/beds-bench)|
-|Survey THU|Shen, Zheyan, Jiashuo Liu, Yue He, Xingxuan Zhang, Renzhe Xu, Han Yu, and Peng Cui. "Towards out-of-distribution generalization: A survey." arXiv preprint arXiv:2108.13624 (2021).|NA|
+1. [WWW 2021] **Disentangling User Interest and Conformity for Recommendation with Causal Embedding.** [[paper]](https://arxiv.org/abs/2006.11011.pdf)
+2. [ICML 2021] **Wilds: A benchmark of in-the-wild distribution shifts** [[paper]](https://arxiv.org/abs/2012.07421.pdf)
+3. [arXiv 2021] **Repository for theory and methods for Out-of-Distribution (OoD) generalization by IBM Research** [[paper]](https://arxiv.org/abs/2108.13624.pdf)
+4. [arXiv 2021] **Ood-bench: Benchmarking and understanding out-of-distribution generalization datasets and algorithms** [[paper]](https://arxiv.org/abs/2106.03721.pdf)
+5. [arXiv 2021] **BEDS-Bench: Behavior of EHR-models under Distributional Shift--A Benchmark.** [[paper]](https://arxiv.org/abs/2107.08189.pdf)
+6. [arXiv 2021] **Towards out-of-distribution generalization: A survey.** [[paper]](https://arxiv.org/abs/2108.13624.pdf)
 1. [SIGIR 2021] **Clicks can be Cheating: Counterfactual Recommendation for Mitigating Clickbait Issue** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3404835.3462962)
 1. [AISTATS 2021] **Causal Inference under Networked Interference and Intervention Policy Enhancement** [[paper]](http://proceedings.mlr.press/v130/ma21c/ma21c.pdf)
 2. [arXiv 2021] **Multivariate Time Series Forecasting with Transfer Entropy Graph** [[paper]](https://arxiv.org/pdf/2005.01185.pdf)
